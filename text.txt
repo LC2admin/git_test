@@ -1,1 +1,8 @@
-helo all
+http://127.0.0.1:3000/labchild/project1
+
+
+: this is the url fthe local gittea serve that was created in this machine date: 16/4/24 
+
+
+
+the ssh key for that repository is  :    inter@127.0.0.1:labchild/project1.git
